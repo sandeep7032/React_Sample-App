@@ -10,7 +10,7 @@ const Nav = () => {
       </div>
       <div className="menu flexC">
         <Link to="/">Home</Link>
-        <Link to="/data">About</Link>
+        <Link to="/data">Data</Link>
         <Link to="/contact">Contact</Link>
       </div>
     </div>
